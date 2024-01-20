@@ -1,0 +1,5 @@
+Instalador de Mods.bat sirve para instalar el minecraft
+
+El launcher sirve para iniciar el juego
+
+url: https://drive.google.com/uc?export=download&id=13avLSlMEX0h2YtZUVK-4Rph-kpe1LpFV&confirm=t&uuid=ef1b6d7f-38e8-4cdd-a074-5aea06709249&at=AB6BwCB8Bd2GeM8sTryF-v5iYDA0:1704307815916
